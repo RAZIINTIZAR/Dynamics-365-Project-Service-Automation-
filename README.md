@@ -1,4 +1,4 @@
-# Dynamics 365 Project Service Automation samples
+# Dynamics 365 Project Service Automation
 
 > **Note**:
 > 
